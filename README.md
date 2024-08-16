@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">AI & Data Science Enthusiast | Audio Signal Processing Advocate | Innovative Solutions Developer</h3>
 <p align="center">
-  <img src="AiSignalytics.gif" alt="Abhishek's GIF" width="400"/>
+  <img src="AiSignalytics.gif" alt="Abhishek's GIF" width="4000"/>
 </p>
 
 - 🔭 I’m currently working on [AlgoLib_plus_plus](https://github.com/Abhisss221/AlgoLib_plus_plus)
