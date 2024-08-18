@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [AlgoLib_plus_plus](https://github.com/Abhisss221/AlgoLib_plus_plus)
 
-- 🌱 I’m currently learning **Audio Signal Processig**
+- 🌱 I’m currently learning **Audio Signal Processing**
 
 - 🤝 I’m looking for help with **Signal Processing**
 
